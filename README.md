@@ -1,6 +1,6 @@
 [![Youtube][youtube-shield]][youtube-url]
-[![Facebook][facebook-shield]][https://www.facebook.com/shahin.console/]
-[![Instagram][instagram-shield]][https://www.instagram.com/shahin.git/]
+[![Facebook][facebook-shield]][facebook-url]
+[![Instagram][instagram-shield]][instagram-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
